@@ -1,1 +1,1 @@
-# Sprints-AI---Exercises
+# Sprints-AI_Exercises
