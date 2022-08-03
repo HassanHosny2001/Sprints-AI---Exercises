@@ -1,1 +1,1 @@
-# Sprints-AI_Exercises
+# Summer training (Sprints AI - Exercises)
